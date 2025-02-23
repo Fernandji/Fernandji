@@ -2,7 +2,7 @@
 - 👀 I’m interested in learn Java, Python
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me fernandolordpato@outlook.com.br
+- 📫 How to reach me fernandobaioccobat@gmail.com
 
 <!---
 Fernandji/Fernandji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
