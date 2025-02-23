@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Fernandji
+- 👋 Hi, I’m @Fernando
 - 👀 I’m interested in learn Java, Python
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
